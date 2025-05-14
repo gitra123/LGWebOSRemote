@@ -38,6 +38,7 @@ A big thanks for the contributions over the years too, lots of people have made 
   * UJ635V
   * UJ6570
   * UJ701V
+  * 24TL520S
   * [please add more!]
 
 Tested with python 3.9 on Debian Unstable.
